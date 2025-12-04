@@ -1,0 +1,105 @@
+.icon-sm{
+    font-size: 2rem;
+}
+.icon-m{
+    font-size: 3rem;
+}
+
+.box-shadow{
+    box-shadow:0 2px 3px rgba(0,0,0,.06);
+}
+
+.heart-icon{
+    -webkit-text-stroke:2px #000;
+    color:#fff; 
+}
+
+.comment-icon{
+    -webkit-text-stroke:2px #000;
+    color:#fff; 
+}
+
+.heart-btn{
+    border:0;
+    background:none;
+    padding:0;
+}
+
+.delete-icon{
+    -webkit-text-stroke:2px #000;
+    color:#ee5c5c; 
+}
+
+.extra-bold{
+    font-weight: 700;
+}
+
+.tight{
+    line-height:1;
+}
+
+.heart{
+    color:#ee5c5c; 
+}
+
+.scroll-area{
+    max-height:400px;
+    overflow-y: auto;
+}
+
+.scroll-area-sub{
+    max-height:200px;
+    overflow-y: auto;
+}
+
+.avatar-sm{
+    width:32px;
+    height:32px;
+}
+
+.avatar-md{
+    width:48px;
+    height:48px;
+}
+
+.avatar-lg{
+    width:80px;
+    height:80px;
+}
+
+.border-space{
+    height:40px;
+    display:flex;
+    align-items:center;
+}
+
+.thead-color{
+    background-color:rgba(51, 211, 107, 0.506);
+}
+
+.tr-center{
+    vertical-align:middle; 
+    text-align:center;
+}
+
+.active{
+    color:rgba(15, 172, 59, 0.898);
+}
+
+.inactive{
+    -webkit-text-stroke:2px #000;
+    color:#fff; 
+}
+
+.visible{
+    color: #2c5def;
+}
+
+.square{
+    height:180px;
+    width:180px;
+}
+
+.table-hover tbody tr:hover{
+    background-color:#b7b2b2e8;
+}
