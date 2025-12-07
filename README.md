@@ -57,11 +57,7 @@ This project focuses on mastering essential full-stack development skills, inclu
 - FontAwesome Icons  
 
 ### Database
-- MySQL  
-- Eloquent Relationships  
-  - `User` ↔ `Post`（1対多）  
-  - `Post` ↔ `Like`（多対多風/1対多）  
-  - `Post` ↔ `Comment`（1対多）  
+- MySQL   
 
 ---
 
