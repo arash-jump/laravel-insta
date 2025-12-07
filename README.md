@@ -7,6 +7,39 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Title
+
+Laravel Insta (Laravel)
+
+## Overview
+
+A simple blog application built with Laravel.
+Users can create, edit, delete posts, with image upload & category tagging.
+
+## Features
+
+CRUD for posts
+
+Image upload to storage
+
+Category tagging (Many-to-Many)
+
+User authentication
+
+Responsive layout (Bootstrap)
+
+## Tech Stack
+
+Laravel 11
+
+PHP 8
+
+MySQL
+
+Bootstrap / Blade
+
+Git / GitHub
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
