@@ -13,32 +13,57 @@ Laravel Insta (Laravel)
 
 ## Overview
 
-A simple blog application built with Laravel.
-Users can create, edit, delete posts, with image upload & category tagging.
+A web application inspired by Instagram, built with **Laravel**.  
+This project focuses on mastering essential full-stack development skills, including authentication, file uploads, database relationships, and CRUD operations.
 
-## Features
+### 👤 User Features
+- User registration & login (Authentication)
+- Profile page
+- Upload profile picture (Image upload & storage)
+- Edit user profile
 
-CRUD for posts
+### 📝 Post Features
+- Create a new post (text + image)
+- Edit & delete posts
+- Display posts in feed or user-specific timeline
+- View individual post details
 
-Image upload to storage
+### ❤️ Like & Comment System
+- Like/unlike posts (toggle behavior)
+- Comment on posts
+- Edit and delete own comments
+- Display number of likes
 
-Category tagging (Many-to-Many)
+### 🔔 Additional Functions
+- Pagination
+- Form validation
+- Flash messages
+- Authorization checks (only owners can edit/delete)
 
-User authentication
+---
 
-Responsive layout (Bootstrap)
+## 🛠️ Tech Stack
 
-## Tech Stack
+### Backend
+- **Laravel 11**
+- **PHP 8+**
+- Eloquent ORM  
+- Laravel Validation  
+- Laravel File Storage
 
-Laravel 11
+### Frontend
+- Blade Templates  
+- Bootstrap 5  
+- FontAwesome Icons  
 
-PHP 8
+### Database
+- MySQL  
+- Eloquent Relationships  
+  - `User` ↔ `Post`（1対多）  
+  - `Post` ↔ `Like`（多対多風/1対多）  
+  - `Post` ↔ `Comment`（1対多）  
 
-MySQL
-
-Bootstrap / Blade
-
-Git / GitHub
+---
 
 ## About Laravel
 
