@@ -41,11 +41,13 @@ This project focuses on mastering essential full-stack development skills, inclu
 - Authorization checks (only owners can edit/delete)
 
 ### 📷　Screenshots
-## User
+### User
 <img width="1470" height="831" alt="Screenshot 2025-12-08 at 10 20 16" src="https://github.com/user-attachments/assets/c08e3dd8-570d-4b01-a78b-7736c5a62661" />
 <img width="1470" height="811" alt="Screenshot 2025-12-08 at 10 20 25" src="https://github.com/user-attachments/assets/f33430cf-beb6-4a2b-9c1b-a79921b8cef9" />
+
 --
-## Admin
+
+### Admin
 <img width="1470" height="831" alt="Screenshot 2025-12-08 at 10 24 18" src="https://github.com/user-attachments/assets/a3d84ade-0c42-45fe-b492-48977802499c" />
 <img width="1470" height="832" alt="Screenshot 2025-12-08 at 10 48 23" src="https://github.com/user-attachments/assets/5ec5561e-d6fd-47ea-9a54-c83d445c81e0" />
 <img width="1470" height="830" alt="Screenshot 2025-12-08 at 10 24 42" src="https://github.com/user-attachments/assets/d72677db-62a3-4b18-956d-4ece464dde14" />
