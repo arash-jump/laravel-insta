@@ -45,7 +45,7 @@ This project focuses on mastering essential full-stack development skills, inclu
 <img width="1470" height="831" alt="Screenshot 2025-12-08 at 10 20 16" src="https://github.com/user-attachments/assets/c08e3dd8-570d-4b01-a78b-7736c5a62661" />
 <img width="1470" height="811" alt="Screenshot 2025-12-08 at 10 20 25" src="https://github.com/user-attachments/assets/f33430cf-beb6-4a2b-9c1b-a79921b8cef9" />
 
---
+---
 
 ### Admin
 <img width="1470" height="831" alt="Screenshot 2025-12-08 at 10 24 18" src="https://github.com/user-attachments/assets/a3d84ade-0c42-45fe-b492-48977802499c" />
